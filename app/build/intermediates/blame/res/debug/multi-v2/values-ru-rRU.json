@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Admin\\Desktop\\Lab3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ru-rRU\\values-ru-rRU.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Admin\\Desktop\\Lab3\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
+                    "from": {
+                        "startLines": "2,6,5,4,3",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "57,340,265,182,110",
+                        "endColumns": "51,68,73,81,70",
+                        "endOffsets": "104,404,334,259,176"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,107,176,250,332",
+                        "endColumns": "51,68,73,81,70",
+                        "endOffsets": "102,171,245,327,398"
+                    }
+                }
+            ]
+        }
+    ]
+}

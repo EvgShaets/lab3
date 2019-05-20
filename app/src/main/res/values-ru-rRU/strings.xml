@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Лабораторная 3</string>
+    <string name="text_hint" translatable="false">Введите имя</string>
+    <string name="text_empty_editText" translatable="false">Введите имя!</string>
+    <string name="text_button" translatable="false">Сделать фото</string>
+    <string name="error_creation_file">Не могу создать файл</string>
+</resources>
